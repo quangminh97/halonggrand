@@ -25,23 +25,7 @@
 } 
 .flaticon-article-topic:before { content: "\f100"; } .flaticon-article-topicsection:before { content: "\f101"; } .flaticon-article-topicmedia:before { content: "\f102"; } .flaticon-article-download:before { content: "\f103"; } .flaticon-icon-cross:before { content: "\f104"; } .flaticon-article-event:before { content: "\f105"; } .flaticon-article-project:before { content: "\f106"; } .flaticon-post-text:before { content: "\f107"; } .flaticon-article-agency:before { content: "\f108"; } .flaticon-article-video:before { content: "\f109"; } .flaticon-post-image:before { content: "\f10a"; } .flaticon-article-partner:before { content: "\f10b"; } .flaticon-article-photoalbum:before { content: "\f10c"; } .flaticon-article-news:before { content: "\f10d"; } .flaticon-commerce:before { content: "\f10e"; } .flaticon-article-pdf:before { content: "\f10f"; } .flaticon-product-commerce:before { content: "\f110"; } .flaticon-btn-cancel:before { content: "\f111"; } .flaticon-btn-favorite:before { content: "\f112"; } .flaticon-seo:before { content: "\f113"; } .flaticon-article-person:before { content: "\f114"; } .flaticon-article-recruitment:before { content: "\f115"; } .flaticon-icon-favorite:before { content: "\f116"; } .flaticon-article-infographic:before { content: "\f117"; } .flaticon-article-faq:before { content: "\f118"; } .flaticon-article-testimonial:before { content: "\f119"; 
 }
-.grandbayhalong_tq{
-width: 36%;
-padding: 20px;
-background: gray;
-opacity: 0.9;
-margin-left: 30px;
-}
-.grandbayhalong_tq p{
-  color: white;
-  font-size: 18px;
 
-}
-.grandbayhalong_tq strong{
-  color: orange;
-  font-weight: bold;
-  font-size: 18px;
-}
 /*!
  * Bootstrap v3.3.5 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
